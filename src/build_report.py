@@ -22,7 +22,7 @@ TAB_DIR = ROOT / "outputs" / "tables"
 REPORT_DIR = ROOT / "report"
 REPORT_DIR.mkdir(parents=True, exist_ok=True)
 
-GITHUB_URL = "https://github.com/nbaqqali/mental-health-in-tech-case-study"
+GITHUB_URL = "https://github.com/nbaqqali/mental-health-in-tech_case-study-"
 
 AUTHOR = "Biama Baqqali"
 COURSE = "DLBDSMLUSL01 - Machine Learning: Unsupervised Learning and Feature Engineering"

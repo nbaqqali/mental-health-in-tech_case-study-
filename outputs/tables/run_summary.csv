@@ -1,0 +1,9 @@
+,value
+n_total_respondents,1433.0
+n_employees_analysed,1146.0
+n_features,23.0
+n_pca_components_80pct,13.0
+pca2_var_pc1,15.9
+pca2_var_pc2,13.9
+best_k,5.0
+final_silhouette,0.143

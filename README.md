@@ -21,16 +21,7 @@ Author: **Biama Baqqali**
   feature table with cluster labels (CSV).
 - `report/` — the final case study document (Word).
 
-## How to reproduce
 
-```bash
-python -m venv .venv
-source .venv/Scripts/activate      # Windows Git Bash
-pip install -r requirements.txt
-
-python src/analysis.py             # -> outputs/figures, outputs/tables
-python src/build_report.py         # -> report/*.docx
-```
 
 ## Method summary
 

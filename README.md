@@ -3,7 +3,7 @@
 Case study for **DLBDSMLUSL01 – Machine Learning: Unsupervised Learning and
 Feature Engineering** (Task 1: Mental Health in Technology-related Jobs).
 
-Author: **Biama Baqqali**
+Author: **Niama Baqqali**
 
 ## What this repository contains
 

@@ -13,14 +13,9 @@ Student: **Niama Baqqali**
   sample to company employees, runs PCA for dimensionality reduction, and
   runs K-Means clustering (k chosen via the elbow method + silhouette
   score). Writes every figure and table used in the report to `outputs/`.
-- `src/build_report.py` — assembles the written case study
-  (`report/Case_Study_Mental_Health_in_Tech_Baqqali.docx`) from the
-  analysis outputs.
 - `outputs/figures/` — all generated charts (PNG).
 - `outputs/tables/` — cluster profile, run summary, and the fully engineered
   feature table with cluster labels (CSV).
-- `report/` — the final case study document (Word).
-
 
 
 ## Method summary
@@ -38,5 +33,3 @@ Student: **Niama Baqqali**
 5. **Clustering**: K-Means on the PCA-reduced data; k selected via the
    elbow method and silhouette score.
 
-See the full report in `report/` for results, cluster profiles, and
-HR recommendations.
